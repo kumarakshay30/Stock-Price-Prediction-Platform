@@ -51,11 +51,6 @@
 - Automated technical analysis
 - Earnings and financial report analysis
 
-## 🚀 Live Demo
-
-[![Watch Demo](https://img.youtube.com/vi/gu4pafNCXng/maxresdefault.jpg)](https://youtu.be/gu4pafNCXng)
-
-*Experience Signalist live: [https://signalist.vercel.app](https://signalist.vercel.app)*
 
 ## 🛠️ Tech Stack
 

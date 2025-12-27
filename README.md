@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="public/readme/hero.webp" alt="Signalist Banner" width="800" />
-  
+   
   <h1 align="center">📈 Signalist - Modern Stock Market Tracker</h1>
   
   <div>

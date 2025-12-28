@@ -163,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Akshay Kumar - [@akshaykumar](https://twitter.com/akshaykumar)
 
-Project Link: [https://github.com/yourusername/signalist](https://github.com/yourusername/signalist)
+Project Link: [https://github.com/yourusername/signalist](https://github.com/kumarakshay30/Stock-Price-Prediction-Platform)
 
 ---
 
